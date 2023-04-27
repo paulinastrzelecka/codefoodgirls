@@ -1,0 +1,20 @@
+.intro {
+    display:flex;
+    width:100%;
+    background-color: #fdfdfd;
+    justify-content:space-around;
+}
+.intro .title {
+background-color: #D9B293;
+padding: 15px;
+
+}
+
+.intro .picture img {
+    width: 650px;
+    height: auto;
+    background-color: #fdfdfd;
+}
+.comment {
+    margin-top: 15px;
+}
