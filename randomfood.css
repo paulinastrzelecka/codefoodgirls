@@ -1,0 +1,39 @@
+/* Header styles */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Main styles */
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-family: "Montserrat", "Trebuchet MS", Helvetica, sans-serif;
+  font-weight: bold;
+  margin-top: 1em;
+  font-size: 2.5rem;
+}
+
+img {
+  margin-top: 2em;
+  width: 550px;
+  height: 400px;
+}
+
+.btn {
+  border: none;
+  background-color: #4fabc9;
+  color: white;
+  border-radius: 5px;
+  margin-top: 1em;
+  padding: 9.5px;
+  font-size: 1.2em;
+  cursor: pointer;
+}
